@@ -61,6 +61,14 @@ The proposed operating model converts employee risk signals into:
 ---
 ## Executive Summary
 
+<img src='./images/Executive Summary.jpg' width=1200>
+
+---
+### Recommendations
+
+<img src='./images/Holistic-strategy-with-an-early-warning-system.jpg' width=1200>
+
+<img src='./images/Random-Forest-results.jpg' width=1200>
 
 ---
 ## 📁 Repository structure
