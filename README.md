@@ -67,12 +67,16 @@ The proposed operating model converts employee risk signals into:
 
 ```text
 ├── data/
-│   └── HR_capstone_project.csv                                      # Raw dataset includes 14,999 entries
+│   └── HR_capstone_project.csv                                   # Raw dataset includes 14,999 entries
 ├── analysis/
-│   └── Salifort_Motors_HR_analytics_project.ipynb                   # Exploratory analysis and model development
-│   └── RF_cv.pickle                                                 # Random Forest model saved to pickle
-│   └── XGB_cv.pickle                                                # XGBoost model saved to pickle
-├── Reducing employee turnover through data-driven actions.ppt       # Executive presentation with 4 key findings & solutions for HR stakeholders
+│   └── Salifort_Motors_HR_analytics_project.ipynb                # Exploratory analysis and model development
+│   └── RF_cv.pickle                                              # Random Forest model saved to pickle
+│   └── XGB_cv.pickle                                             # XGBoost model saved to pickle
+├── images/
+│   └── Executive Summary.jpg                                     # Exploratory analysis and model development
+│   └── Holistic-strategy-with-an-early-warning-system.jpg        # Random Forest model saved to pickle
+│   └── Random-Forest-results.jpg                                 # XGBoost model saved to pickle
+├── Reducing employee turnover through data-driven actions.ppt    # Executive presentation with 4 key findings & solutions for HR stakeholders
 └── README.md                                                       
 ```
 
