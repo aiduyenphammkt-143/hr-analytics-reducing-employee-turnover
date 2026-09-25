@@ -27,16 +27,7 @@ The project follows a three-stage approach:
 
 ### 1. Understand why employees leave
 
-Employee patterns were explored across eight workforce attributes, including:
-
-- Satisfaction
-- Number of projects
-- Average monthly working hours
-- Performance
-- Tenure
-- Salary
-- Promotion history
-- Department
+Employee patterns were explored across eight workforce attributes.
 
 ### 2. Predict who may leave
 
@@ -63,12 +54,27 @@ The proposed operating model converts employee risk signals into:
 
 <img src='./images/Executive Summary.jpg' width=1200>
 
+
 ---
-### Recommendations
+## Key Findings of Critical Turnover Driven
+
+<img src='./images/Finding 1.jpg' width=1200>
+
+<img src='./images/Finding 2.jpg' width=1200>
+
+<img src='./images/Finding 3.jpg' width=1200>
+
+<img src='./images/Finding 4.jpg' width=1200>
+
+---
+### Innovative Regulations & Eearly-warning System
+
+The recommended strategy is not simply to reduce workload or increase satisfaction. It is to combine balanced utilization, competitive rewards, visible career pathways, and targeted early intervention.
 
 <img src='./images/Holistic-strategy-with-an-early-warning-system.jpg' width=1200>
 
 <img src='./images/Random-Forest-results.jpg' width=1200>
+
 
 ---
 ## 📁 Repository structure
